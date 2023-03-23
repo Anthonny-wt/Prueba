@@ -8,4 +8,4 @@ Este proyecto esta desarrollado para la **Universidad Continental**
 | Foto | Text |
 | Foto | Text |
 #### Presentación wallper
-![Wallper](ima.jpg)
+![Wallper](https://github.com/Anthonny-wt/Prueba/blob/main/ucci.png)
