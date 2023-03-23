@@ -7,4 +7,5 @@ Este proyecto esta desarrollado para la **Universidad Continental**
 | Header | Title |
 | Foto | Text |
 | Foto | Text |
-	![Wallper](ima.jpg)
+#### Presentación wallper
+![Wallper](ima.jpg)
