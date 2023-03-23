@@ -4,8 +4,8 @@
 Este proyecto esta desarrollado para la **Universidad Continental**
 | Carrera| Alumnos |
 | ----------- | ----------- |
-| Header | Title |
-| Foto | Text |
-| Foto | Text |
-#### Presentación wallper
-![Wallper](https://github.com/Anthonny-wt/Prueba/blob/main/ucci.png)
+| J | Text |
+| F | Text |
+| S | Text |
+#### Presentación de la Universidad Continental
+![Logo Universidad Continental](https://github.com/Anthonny-wt/Prueba/blob/main/ucci.png)
